@@ -2,7 +2,7 @@
 """Builds assets/hero.svg: symbol portrait (left) + animated contribution chart (right).
 Usage: python3 scripts/build_hero.py [github_username]
 Uses only the standard library. Fetches the public contribution calendar."""
-import json, random, re, sys, urllib.request
+import json, random, re, sys, time, urllib.request
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -110,7 +110,15 @@ req = urllib.request.Request(
     f"https://github.com/users/{USER}/contributions",
     headers={"User-Agent": "Mozilla/5.0 (profile-readme-builder)"},
 )
-html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+html = None
+for attempt in range(3):
+    try:
+        html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+        break
+    except Exception as e:
+        if attempt == 2:
+            raise
+        time.sleep(5)
 cells = {}
 for m in re.finditer(
     r'data-date="(\d{4}-\d\d-\d\d)"[^>]*?id="contribution-day-component-(\d)-(\d+)"[^>]*?data-level="(\d)"', html
@@ -142,7 +150,8 @@ for col in range(ncols):
     enter = f"{col*0.03:.2f}s"
     wave = f"{1.5 + col*0.08:.2f}s"
     rects.append(
-        f'<g opacity="0" stroke-width="0" fill-opacity=".28">'
+        f'<g opacity="1" stroke-width="0" fill-opacity=".28">'
+        f'<set attributeName="opacity" to="0" begin="0s" end="{enter}"/>'
         f'<animate attributeName="opacity" from="0" to="1" dur=".5s" begin="{enter}" fill="freeze"/>'
         f'<animate attributeName="stroke-width" values="0;4;0;0" keyTimes="0;.1;.25;1" dur="5s" begin="{wave}" repeatCount="indefinite"/>'
         f'<animate attributeName="fill-opacity" values=".28;.9;.28;.28" keyTimes="0;.1;.25;1" dur="5s" begin="{wave}" repeatCount="indefinite"/>'
@@ -188,7 +197,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W:.0f}" height="{H:.0f
 </linearGradient>
 <style>
 .p text{{font-family:'DejaVu Sans Mono','Courier New',monospace;font-size:10px;fill:url(#g);white-space:pre}}
-.s{{opacity:0;animation:t 18s linear infinite}}
+.s{{animation:t 18s linear infinite both}}
 @keyframes t{{0%{{opacity:0}}2%{{opacity:1}}97%{{opacity:1}}100%{{opacity:0}}}}
 {pdelays}
 .m{{font:10px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#64748b}}

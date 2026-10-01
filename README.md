@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=2500&pause=600&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Vansh+Kumar" alt="Hi, I'm Vansh Kumar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=190&section=header&text=Vansh%20Kumar&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Local%20AI%20%C2%B7%20Automation&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Vansh Kumar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=560&height=30&lines=Software+Developer;Local+AI+%26+Automation;Game+Development;Problem+Solver" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=560&height=30&lines=Building+local+AI+assistants;Experimenting+with+agentic+systems;Making+2D+games+with+Godot;Solving+problems%2C+one+at+a+time" alt="Typing animation" />
 
 <br/>
 
@@ -44,8 +44,6 @@ Offline assistant built on a local LLM that understands natural-language intent 
 
 `Python` `Ollama` `Speech Recognition` `Edge TTS` `Pygame`
 
-[Repository](YOUR_REPO_LINK) · [Demo](YOUR_DEMO_LINK)
-
 </td>
 <td width="33%" valign="top">
 
@@ -56,8 +54,6 @@ Team project covering exploration, combat, level design and pixel-art direction.
 
 `Godot` `GDScript` `Python`
 
-[Repository](YOUR_REPO_LINK) · [Demo](YOUR_DEMO_LINK)
-
 </td>
 <td width="33%" valign="top">
 
@@ -65,8 +61,6 @@ Team project covering exploration, combat, level design and pixel-art direction.
 **Game-dev journey platform**
 
 A personal space to share development updates, images, videos and discussions.
-
-[Repository](YOUR_REPO_LINK) · [Demo](YOUR_DEMO_LINK)
 
 </td>
 </tr>
@@ -97,14 +91,6 @@ Data Structures & Algorithms · Software Engineering · Agentic AI systems · Sy
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NERDY-01&theme=default" alt="GitHub stats" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NERDY-01&theme=default" alt="Top languages" />
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NERDY-01/NERDY-01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NERDY-01/NERDY-01/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/NERDY-01/NERDY-01/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
 </div>
 
 <br/>
@@ -117,6 +103,6 @@ Open to internships, collaborations and interesting problems. The best way to re
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=80&section=footer" width="100%" alt="footer" />
 
 </div>

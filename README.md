@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=190&section=header&text=Vansh%20Kumar&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Local%20AI%20%C2%B7%20Automation&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Vansh Kumar" />
 
+<img src="assets/profile-symbols.svg" width="300" alt="Vansh Kumar" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=560&height=30&lines=Building+local+AI+assistants;Experimenting+with+agentic+systems;Making+2D+games+with+Godot;Solving+problems%2C+one+at+a+time" alt="Typing animation" />
 
 <br/>
@@ -10,6 +14,14 @@
 <a href="mailto:vanshkumarchandelofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square" alt="Email" /></a>
 <a href="https://leetcode.com/u/vanshchandel_12/"><img src="https://img.shields.io/badge/LeetCode-Profile-ffa116?style=flat-square" alt="LeetCode" /></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=800&color=64748B&center=true&vCenter=true&width=420&height=24&lines=%2F%2F+contributions+over+the+last+year;%2F%2F+one+commit+at+a+time" alt="Contributions caption" />
+
+<a href="https://github.com/NERDY-01">
+  <img src="https://ghchart.rshah.org/40c463/NERDY-01" alt="GitHub contribution chart" width="720" />
+</a>
 
 <br/><br/>
 

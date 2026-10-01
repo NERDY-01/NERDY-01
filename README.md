@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=NERDY-01&label=Profile+Views&color=0e7490&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/NERDY-01?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/followers/NERDY-01?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117" alt="Followers" />
 
 </div>
 
@@ -45,8 +45,8 @@ My personal AI assistant built around a local LLM. The goal is to move past rigi
 **✓** Custom personality &nbsp;·&nbsp; **✓** Offline after setup
 
 <img src="https://img.shields.io/badge/Status-Actively%20developing-22d3ee?style=flat-square&labelColor=0d1117" alt="Status" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee" alt="Python" />
-<img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&labelColor=0d1117&color=0e7490" alt="Python" />
+<img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed" alt="Ollama" />
 
 </td>
 </tr>
@@ -58,27 +58,21 @@ My personal AI assistant built around a local LLM. The goal is to move past rigi
 ## `> tech_stack`
 
 **Languages**<br/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python" />
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=3b82f6" alt="C++" />
-<img src="https://img.shields.io/badge/GDScript-0d1117?style=for-the-badge&logo=godotengine&logoColor=478cbf" alt="GDScript" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css&theme=dark" alt="Languages" />
+<img src="https://img.shields.io/badge/GDScript-0d1117?style=for-the-badge&labelColor=0d1117&color=478cbf" alt="GDScript" />
 
 **AI / Systems**<br/>
-<img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/Local%20LLMs-0d1117?style=for-the-badge&logo=huggingface&logoColor=a78bfa" alt="Local LLMs" />
-<img src="https://img.shields.io/badge/Speech%20Recognition-0d1117?style=for-the-badge&logo=audacity&logoColor=22d3ee" alt="Speech Recognition" />
-<img src="https://img.shields.io/badge/TTS-0d1117?style=for-the-badge&logo=soundcloud&logoColor=a78bfa" alt="TTS" />
+<img src="https://skillicons.dev/icons?i=ollama&theme=dark" alt="Ollama" />
+<img src="https://img.shields.io/badge/Local%20LLMs-0d1117?style=for-the-badge&labelColor=0d1117&color=7c3aed" alt="Local LLMs" />
+<img src="https://img.shields.io/badge/Speech%20Recognition-0d1117?style=for-the-badge&labelColor=0d1117&color=0e7490" alt="Speech Recognition" />
+<img src="https://img.shields.io/badge/TTS-0d1117?style=for-the-badge&labelColor=0d1117&color=7c3aed" alt="TTS" />
 
 **Game Development**<br/>
-<img src="https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godotengine&logoColor=478cbf" alt="Godot" />
-<img src="https://img.shields.io/badge/Pygame-0d1117?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Pygame" />
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot" />
+<img src="https://img.shields.io/badge/Pygame-0d1117?style=for-the-badge&labelColor=0d1117&color=0e7490" alt="Pygame" />
 
 **Tools**<br/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
 
 <br/>
 
@@ -141,12 +135,12 @@ A personal game-development journey platform where I can share development updat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NERDY-01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NERDY-01&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top Languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NERDY-01&theme=github_dark" alt="GitHub Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=NERDY-01&theme=github_dark" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NERDY-01&theme=dark&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=NERDY-01&theme=dark&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" alt="GitHub Streak" />
 
 <br/>
 
@@ -192,12 +186,12 @@ $ cat roadmap.txt
 
 <div align="center">
 
-<a href="https://github.com/NERDY-01"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/vansh-kumar-b54352283"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/vanshchandel_12/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" alt="LeetCode" /></a>
-<a href="https://www.instagram.com/vansh.chandel_12/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram" /></a>
-<a href="mailto:vanshkumarchandelofficial@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/NERDY-01"><img src="https://img.shields.io/badge/GitHub-NERDY--01-0d1117?style=for-the-badge&labelColor=24292f" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/vansh-kumar-b54352283"><img src="https://img.shields.io/badge/LinkedIn-Vansh%20Kumar-0d1117?style=for-the-badge&labelColor=0a66c2" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/vanshchandel_12/"><img src="https://img.shields.io/badge/LeetCode-vanshchandel__12-0d1117?style=for-the-badge&labelColor=ffa116" alt="LeetCode" /></a>
+<a href="https://www.instagram.com/vansh.chandel_12/"><img src="https://img.shields.io/badge/Instagram-vansh.chandel__12-0d1117?style=for-the-badge&labelColor=c13584" alt="Instagram" /></a>
+<a href="mailto:vanshkumarchandelofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0d1117?style=for-the-badge&labelColor=ea4335" alt="Email" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Coming%20soon-0d1117?style=for-the-badge&labelColor=7c3aed" alt="Portfolio" /></a>
 
 </div>
 
@@ -210,4 +204,3 @@ $ cat roadmap.txt
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0e7490,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
-

@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vansh-kumar-b54352283"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/vansh-chandel-b54352283"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square" alt="LinkedIn" /></a>
 <a href="mailto:vanshkumarchandelofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square" alt="Email" /></a>
 <a href="https://leetcode.com/u/vanshchandel_12/"><img src="https://img.shields.io/badge/LeetCode-Profile-ffa116?style=flat-square" alt="LeetCode" /></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square" alt="Portfolio" /></a>
